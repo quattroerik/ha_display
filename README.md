@@ -4,9 +4,9 @@ Touch panel control for Home assistant
 Whole story for my touch panel control. Currently work in progress.. :-)
 
 Hardware:
-Nextion display
+Nextion display (https://nextion.tech/datasheets/nx3224t024/ )
 NodeMCU
-Jumpercables
+2 addtional Jumpercables
 
 Used tools and SW on OSX
 - Arduino
